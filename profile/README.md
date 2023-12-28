@@ -5,28 +5,31 @@ Our goal is to create a decentralized ZK-Proof compute marketplace, transforming
 
 Website: [Apus Network](https://www.apus.network/)
 
-## Mission
-Building a **Decentralized GPU Compute Marketplace** that provides developers an affordable, efficient, and secure access to vast computational power. Embrace the future of AI and blockchain convergence!
+## Goals
+Our goal is to create a decentralized ZK-Proof compute marketplace, transforming global idle compute resources into accessible and affordable ZK capabilities.
 
 ## Advantages
 
-1. **Permissionless and Decentralized**: By empowering anyone, anywhere to engage without permissions or barriers, we pave the way for a dynamic, global community-driven ecosystem.
-2. **No Middleman Margins**: By removing intermediaries, we substantially reduce the cost of compute, guaranteeing developers both exceptional affordability and an open, equitable pricing model.
-3. **Hyperscale Efficiency**: By harnessing global idle GPU resources and prioritizing scalability, we help developers address Generative AI tasks with greater efficiency.
-4. **Advanced Security**: By integrating zero-knowledge proofs, homomorphic encryption, and other advanced cryptographic methods, we offer developers access to trustless GPU resources with the confidence of privacy and protection.
+1. **Liveness**: Decentralized systems use multiple provers, ensuring the protocol operates reliably and doesn't face downtime if some provers are temporarily unavailable. This ensures continuous operation of the system.
+2. **Censorship Resistance**: The more provers in a network, the greater the censorship resistance. This is important for maintaining the integrity of transactions and ensuring all valid transactions have an equal opportunity to be included.
+3. **Affordability**: Decentralization allows for the creation of third-party proof networks. Applications can outsource their proving to these networks, reducing the overhead for building and running ZK infrastructure. This can lead to cost savings and efficiency in development.
+4. **Failure Resilience**: Decentralized systems distribute risk and do not have a single point of failure, significantly enhancing the system's resilience to faults or attacks.
+
 
 ## Highlight Repositories
 - [Apus Market DApp](https://github.com/apuslabs/apus-web-console)
 - [Apus Smart Contract](https://github.dev/ironGYII/xxxx)
 
 ## Ecosystem & Partners
-- **Web3 Ecosystem**
+- **Taiko**
+- **Scroll**
+- **Polygon**
+- **Nanta Network**
+- **everVision**
 - **Cosmos**
-- **Arweave**
-- **Filecoin**
 
 ## DAO
-We have a [DAO]()! Looking forward to your joining.
+We have a [DAO](https://t.me/+AWdHtLSl2m4yM2I1)! Looking forward to your joining.
 
 ## Follow Us
 - **Medium**: [Medium](https://medium.com/@apusnetwork)
