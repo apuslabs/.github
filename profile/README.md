@@ -1,7 +1,7 @@
 ![Apus Network Logo](./profile/logo.svg)
 
 # Apus Network
-_Gathering Global Computing Resources, Serving Humanity._
+Our goal is to create a decentralized ZK-Proof compute marketplace, transforming global idle compute resources into accessible and affordable ZK capabilities.
 
 Website: [Apus Network](https://www.apus.network/)
 
