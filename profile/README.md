@@ -1,32 +1,28 @@
 ![Apus Network Logo](./profile/logo.svg)
 
 # Apus Network
-Our goal is to create a decentralized ZK-Proof compute marketplace, transforming global idle compute resources into accessible and affordable ZK capabilities.
+Our goal is to create an Edge Computing for AI, unleash Power, Fair Costm On-Demand for Masses.
 
 Website: [Apus Network](https://www.apus.network/)
 
-## Goals
-Our goal is to create a decentralized ZK-Proof compute marketplace, transforming global idle compute resources into accessible and affordable ZK capabilities.
-
 ## Advantages
 
-1. **Liveness**: Decentralized systems use multiple provers, ensuring the protocol operates reliably and doesn't face downtime if some provers are temporarily unavailable. This ensures continuous operation of the system.
-2. **Censorship Resistance**: The more provers in a network, the greater the censorship resistance. This is important for maintaining the integrity of transactions and ensuring all valid transactions have an equal opportunity to be included.
-3. **Affordability**: Decentralization allows for the creation of third-party proof networks. Applications can outsource their proving to these networks, reducing the overhead for building and running ZK infrastructure. This can lead to cost savings and efficiency in development.
-4. **Failure Resilience**: Decentralized systems distribute risk and do not have a single point of failure, significantly enhancing the system's resilience to faults or attacks.
-
+1. **Non-Intrusive Deployment**: Engineered for simple setup without disrupting existing machine performance, enabling worry-free contributions to AI computations.
+2. **Scalable Infrastructure**: Designed for scalability to meet dynamic compute demands, ensuring seamless AI processing capabilities as your needs evolve.
+3. **Democratized Compute Access**: Facilitates equitable access to high-performance compute resources, fostering innovation and rewarding participation across the network.
+4. **Privacy-Centric Network**: Embraces a decentralized ethos with transparent, trustless operations and e2e encryption, safeguarding user data and ensuring fairness.
 
 ## Highlight Repositories
-- [Apus Market DApp](https://github.com/apuslabs/apus-web-console)
-- [Apus Smart Contract](https://github.dev/ironGYII/xxxx)
+- [DApp](https://github.com/apuslabs/apus-web-console)
+- [Contract]([https://github.dev/ironGYII/xxxx](https://github.com/apuslabs/apus_zkp_market))
 
 ## Ecosystem & Partners
-- **Taiko**
-- **Scroll**
-- **Polygon**
-- **Nanta Network**
-- **everVision**
-- **Cosmos**
+- **Omnilnfer**
+- **Novita.ai**
+- **AbyssWorld**
+- **Dephy**
+- **PPIO**
+- **Lagrange**
 
 ## DAO
 We have a [DAO](https://t.me/+AWdHtLSl2m4yM2I1)! Looking forward to your joining.
