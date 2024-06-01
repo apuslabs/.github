@@ -1,7 +1,7 @@
 ![Apus Network Logo](./profile/logo.svg)
 
 # Apus Network
-Our goal is to create an Edge Computing for AI, unleash Power, Fair Costm On-Demand for Masses.
+Apus Network is building a decentralized and trustless GPU network designed for secure, efficient and scalable AI inference.
 
 Website: [Apus Network](https://www.apus.network/)
 
