@@ -1,4 +1,4 @@
-![Apus Network Logo](./profile/logo.svg)
+![Apus Network Logo](https://avatars.githubusercontent.com/u/146177720?s=400&u=b44c0ae4eb6793800a4377468ab6cb0fa44e6b80&v=4)
 
 # Apus Network
 Apus Network is building a decentralized and trustless GPU network designed for secure, efficient and scalable AI inference.
