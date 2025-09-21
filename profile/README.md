@@ -1,5 +1,3 @@
-### Apus Network
-
 Apus Network is a decentralized GPU network built for the AO ecosystem, providing trustless and verifiable computing power for Artificial Intelligence. Our mission is to extend AO's capabilities, enabling verifiable AI inference and the operation of decentralized AI Agents.
 
 #### Vision
